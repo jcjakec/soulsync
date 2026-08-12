@@ -1,5 +1,5 @@
 <h1>
-  <img src="https://github.com/user-attachments/assets/d8d90a3c-ed13-40a2-a080-61ee1f87f950" alt="SoulSync Logo" width="28" align="absmiddle" style="margin-right: 10px;"> soulsync
+  <img src="https://github.com/user-attachments/assets/d8d90a3c-ed13-40a2-a080-61ee1f87f950" alt="SoulSync Logo" width="28" align="absmiddle" style="margin-right: 10px;"> spotseek
 </h1>
 <table width="100%">
   <tr>
