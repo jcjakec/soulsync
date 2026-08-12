@@ -13,15 +13,15 @@
 </table>
 
 
-This plugin allows you to automatically download songs from a Spotify playlist using SoulSeek and the Nicotine+ interface, using a scoring system to find the best suited file to the track, finding the closest match in the highest quality.<br> 
+This plugin allows you to automatically download songs from a Spotify playlist using SoulSeek and the Nicotine+ interface, using a scoring system to find the best suited file to the track, finding the closest match in the highest quality. It seems to hit almost 100% of exact matches where songs are available on the platform, from my limited testing.<br> 
 > [!IMPORTANT]
->This is a small, quick, **experimental** project and you are likely to experience issues.<br>
-> Processes are used that may break
+>This is a small, **experimental** project, there is likely to be instability and issues.<br>
 
 ### Installation
 
-Download the latest zip file from [releases](#) and extract the contents into: <br>
+Download the latest zip file from [releases](https://github.com/jcjakec/spotseek/releases) and extract the contents into: <br>
 > Windows: ```C:\Users\youruser\AppData\Roaming\nicotine\plugins```<br>
+> Linux: `~/.local/share/nicotine/plugins/spotseek/`
 
 ### Usage
 
