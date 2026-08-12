@@ -1,6 +1,7 @@
 <h1>
   <img src="https://github.com/user-attachments/assets/d8d90a3c-ed13-40a2-a080-61ee1f87f950" alt="SoulSync Logo" width="28" align="absmiddle" style="margin-right: 10px;"> spotseek
 </h1>
+Electronic music focused Spotify playlist > Soulseek automation plugin on Nicotine+<br><br>
 <table width="100%">
   <tr>
     <td align="center" width="50%">
@@ -13,12 +14,14 @@
 </table>
 
 
-This plugin allows you to automatically download songs from a Spotify playlist using SoulSeek and the Nicotine+ interface, using a scoring system to find the best suited file to the track, finding the closest match in the highest quality. It seems to hit a high percentage of exact matches where songs are available on the platform, from my limited testing. 
+This plugin allows you to automatically download songs from a Spotify playlist using [SoulSeek](https://www.slsknet.org/) and the [Nicotine+](https://nicotine-plus.org/) interface, using a filter & scoring system to find the best suited file to the track, finding the closest match in the highest quality. It seems to hit a high percentage of exact matches where songs are available on the platform, from my limited testing. 
 > [!IMPORTANT]
 >This is a small, **experimental** project, there is likely to be instability and issues.
 
-#### Genre
-This tool was initially made with the naming patterns of **electronic music and mixes** in mind.<br> It may **not be accurate with other genres**.
+#### Compatibility & Genre 
+This tool was initially made with the naming patterns of **electronic music and mixes** in mind.<br>
+It may **not be accurate with other genres**.<br>
+It is also English and may **incorrectly filter international music** and characters.
 
 ### Installation
 
