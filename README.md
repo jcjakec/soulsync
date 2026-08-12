@@ -21,7 +21,7 @@ This plugin allows you to automatically download songs from a Spotify playlist u
 #### Compatibility & Genre 
 This tool was initially made with the naming patterns of **electronic music and mixes** in mind.<br>
 It may **not be accurate with other genres**.<br>
-It is also English and may **incorrectly filter international music** and characters.
+It is may also **incorrectly filter international music** and characters.
 
 ### Installation
 
