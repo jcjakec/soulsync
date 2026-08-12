@@ -1,0 +1,4 @@
+Version="0.1"
+Authors=['jcjakec']
+Name="spotseek"
+Description="Automate downloading public Spotify playlists using Soulseek on Nicotine+ with this plugin."
