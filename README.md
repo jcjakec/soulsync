@@ -4,13 +4,14 @@
 <table width="100%">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github.com/user-attachments/assets/11d8d751-1a3c-478d-8815-0c66cdd5c566" alt="SoulSync Settings Interface" height="350" />
+      <img src="https://github.com/user-attachments/assets/1d135a05-93d7-41a8-884f-de21a47b8589"  height="350" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github.com/user-attachments/assets/0d8783dc-db07-4428-a155-aeecd7e2719e" alt="SoulSync Download View" height="350" />
+      <img src="https://github.com/user-attachments/assets/7c3dcbc5-eb2c-4bba-825b-0eacf649e6d2"  height="350" />
     </td>
   </tr>
 </table>
+
 
 This plugin allows you to automatically download songs from a Spotify playlist using SoulSeek and the Nicotine+ interface, using a scoring system to find the best suited file to the track, finding the closest match in the highest quality.<br> 
 > [!IMPORTANT]
